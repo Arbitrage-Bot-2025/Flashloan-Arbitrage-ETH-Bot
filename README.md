@@ -127,3 +127,6 @@ Hope my bot brings you some profit! If something doesn’t work or you have idea
 ---
 
 *This is my project, made for myself, sharing as is. Check the contract and script before mainnet to avoid bugs!*
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sphiNXCOdeR44.Arbitrage-Ethereum-Bot)
